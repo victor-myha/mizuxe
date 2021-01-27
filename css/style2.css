@@ -1,0 +1,16 @@
+body {
+  margin-top: 105px;
+}
+
+.navbar {
+  -webkit-box-shadow: 2px 2px 5px #3292a6;
+          box-shadow: 2px 2px 5px #3292a6;
+  opacity: 0.9;
+  background: #fff;
+}
+
+.navbar .nav-item {
+  font-size: 1.4rem;
+  padding-right: 1.4rem;
+}
+/*# sourceMappingURL=style2.css.map */
